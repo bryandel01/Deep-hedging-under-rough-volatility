@@ -4,4 +4,4 @@ Implemented in python: 'Deep Hedging under Rough Volatility', Blanka Horvath, Jo
 
 Template notebooks and html files available.
 
-Data to large to be upload. 
+Data too large to be upload. 
